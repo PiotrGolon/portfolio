@@ -36,7 +36,7 @@ const RecentProjects = () => {
                     src={item.img}
                     alt="cover"
                     fill
-                    className="z-10 absolute md:-bottom-28 bottom-0 object-cover"
+                    className="z-10 absolute md:-bottom-32 -bottom-6 object-cover"
                   />
                 )}
                 {item.id === 2 && (
