@@ -115,7 +115,7 @@ export const projects = [
     des: "A fullstack web application for managing digital learning content, with role-based access for teachers and users. Teachers can create courses by adding chapters, videos, and descriptions, with authentication via Clerk and payment processing through Stripe.",
     img: "/projekt5.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "stripe.svg"],
-    link: "https://car-platform.vercel.app/",
+    link: "https://golon-lms.vercel.app/sign-in",
   },
   {
     id: 6,
@@ -123,7 +123,7 @@ export const projects = [
     des: "A scalable e-commerce solution integrated with a CMS, enabling seamless content display and management. It features product filtering, secure payments via Stripe, and dynamic data fetching from the CMS for a smooth and user-friendly shopping experience.",
     img: "/projekt6.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "stripe.svg"],
-    link: "https://car-platform.vercel.app/",
+    link: "https://store-store.vercel.app/",
   },
   {
     id: 7,
@@ -131,7 +131,7 @@ export const projects = [
     des: "A robust platform for managing multiple e-commerce stores, built with Next.js for performance and scalability. It allows users to create and manage stores with features like billboards, categories, products, and more, with support for filtering, archiving, and dark/light mode customization.",
     img: "/projekt7.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-    link: "https://car-platform.vercel.app/",
+    link: "https://store-admin-two-sigma.vercel.app/sign-in",
   },
   {
     id: 8,
@@ -139,7 +139,7 @@ export const projects = [
     des: "A user-friendly platform that enables patients to schedule appointments with a physiotherapist. Features include real-time availability, appointment management, and reminders to streamline the booking process.",
     img: "/projekt8.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "c.svg"],
-    link: "https://car-platform.vercel.app/",
+    link: "https://tomasz-deput-fizjoterapia.vercel.app/",
   },
 ];
 
