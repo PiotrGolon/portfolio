@@ -1,3 +1,4 @@
+import Grid from "@/components/grid";
 import Hero from "@/components/hero";
 
 export default function Home() {
@@ -6,13 +7,12 @@ export default function Home() {
       <div className="max-w-7xl w-full">
         {/* <FloatingNav navItems={navItems} /> */}
         <Hero />
-        {/*<Grid />
-        <RecentProject />
+        <Grid />
+        {/* <RecentProject />
         <Clients />
         <Experience />
         <Approach />
         <Footer /> */}
-        Hello
       </div>
     </main>
   );
