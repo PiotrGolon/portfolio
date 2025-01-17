@@ -36,7 +36,7 @@ const RecentProjects = () => {
                     src={item.img}
                     alt="cover"
                     fill
-                    className="z-10 absolute md:-bottom-32 -bottom-6 object-cover"
+                    className="z-10 absolute md:-bottom-44 -bottom-14 object-cover"
                   />
                 )}
                 {item.id === 2 && (
@@ -44,7 +44,7 @@ const RecentProjects = () => {
                     src={item.img}
                     alt="cover"
                     fill
-                    className="z-10 absolute md:-bottom-24 bottom-0 object-cover"
+                    className="z-10 absolute md:-bottom-32 -bottom-4 object-cover"
                   />
                 )}
                 {item.id === 3 && (
@@ -52,7 +52,7 @@ const RecentProjects = () => {
                     src={item.img}
                     alt="cover"
                     fill
-                    className="z-10 absolute md:-bottom-40 -bottom-12 object-cover"
+                    className="z-10 absolute md:-bottom-48 -bottom-24 object-cover"
                   />
                 )}
                 {item.id === 4 && (
@@ -60,7 +60,7 @@ const RecentProjects = () => {
                     src={item.img}
                     alt="cover"
                     fill
-                    className="z-10 absolute md:-bottom-24 bottom-0 object-cover"
+                    className="z-10 absolute md:-bottom-32 -bottom-6 object-cover"
                   />
                 )}
               </div>
