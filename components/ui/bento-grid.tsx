@@ -104,9 +104,9 @@ export const BentoGridItem = ({
             />
           )}
         </div>
-        {/* {id === 6 && (
+        {id === 6 && (
           <BackgroundGradientAnimation></BackgroundGradientAnimation>
-        )} */}
+        )}
 
         <div
           className={cn(
@@ -166,7 +166,7 @@ export const BentoGridItem = ({
 
           {id === 6 && (
             <div className="mt-5 relative">
-              <div className={`absolute -bottom-5 right-0`}>
+              {/* <div className={`absolute -bottom-5 right-0`}>
                 <Lottie
                   options={{
                     loop: copied,
@@ -177,7 +177,7 @@ export const BentoGridItem = ({
                     },
                   }}
                 />
-              </div>
+              </div> */}
 
               <MagicButton
                 icon={copied ? <IoCheckmarkOutline /> : <IoCopyOutline />}
