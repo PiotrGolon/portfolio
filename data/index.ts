@@ -102,6 +102,38 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
     link: "https://car-platform.vercel.app/",
   },
+  {
+    id: 5,
+    title: "Porównywarka Samochodowa",
+    des: "Aplikacja internetowa do eksplorowania i porównywania samochodów, oferująca szczegółowe specyfikacje, recenzje i zaawansowane filtry dla świadomego podejmowania decyzji.",
+    img: "/projekt5.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://car-platform.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Porównywarka Samochodowa",
+    des: "Aplikacja internetowa do eksplorowania i porównywania samochodów, oferująca szczegółowe specyfikacje, recenzje i zaawansowane filtry dla świadomego podejmowania decyzji.",
+    img: "/projekt6.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://car-platform.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Porównywarka Samochodowa",
+    des: "Aplikacja internetowa do eksplorowania i porównywania samochodów, oferująca szczegółowe specyfikacje, recenzje i zaawansowane filtry dla świadomego podejmowania decyzji.",
+    img: "/projekt7.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://car-platform.vercel.app/",
+  },
+  {
+    id: 8,
+    title: "Porównywarka Samochodowa",
+    des: "Aplikacja internetowa do eksplorowania i porównywania samochodów, oferująca szczegółowe specyfikacje, recenzje i zaawansowane filtry dla świadomego podejmowania decyzji.",
+    img: "/projekt8.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://car-platform.vercel.app/",
+  },
 ];
 
 // export const testimonials = [

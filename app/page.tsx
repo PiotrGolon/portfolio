@@ -2,7 +2,6 @@
 import Grid from "@/components/grid";
 import Hero from "@/components/hero";
 import RecentProjects from "@/components/recent-project";
-import { GridGlobe } from "@/components/ui/grid-globe";
 
 export default function Home() {
   return (

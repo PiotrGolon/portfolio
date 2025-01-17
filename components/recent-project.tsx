@@ -63,6 +63,38 @@ const RecentProjects = () => {
                     className="z-10 absolute md:-bottom-44 -bottom-16 object-cover"
                   />
                 )}
+                {item.id === 5 && (
+                  <Image
+                    src={item.img}
+                    alt="cover"
+                    fill
+                    className="z-10 absolute md:-bottom-44 -bottom-16 object-cover"
+                  />
+                )}
+                {item.id === 6 && (
+                  <Image
+                    src={item.img}
+                    alt="cover"
+                    fill
+                    className="z-10 absolute md:-bottom-44 -bottom-16 object-cover"
+                  />
+                )}
+                {item.id === 7 && (
+                  <Image
+                    src={item.img}
+                    alt="cover"
+                    fill
+                    className="z-10 absolute md:-bottom-44 -bottom-16 object-cover"
+                  />
+                )}
+                {item.id === 8 && (
+                  <Image
+                    src={item.img}
+                    alt="cover"
+                    fill
+                    className="z-10 absolute md:-bottom-44 -bottom-16 object-cover"
+                  />
+                )}
               </div>
 
               <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1">
