@@ -69,40 +69,40 @@ export const gridItems = [
   },
 ];
 
-// export const projects = [
-//   {
-//     id: 1,
-//     title: "Narzędzie do Zarządzania Zadaniami",
-//     des: "Usprawnij swój przepływ pracy i zwiększ produktywność dzięki tej intuicyjnej aplikacji do zarządzania zadaniami, zaprojektowanej tak, aby utrzymać projekty na właściwej drodze i zespół w synchronizacji.",
-//     img: "/projekt1.png",
-//     iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/app.svg"],
-//     link: "https://task-manager-phi-khaki.vercel.app",
-//   },
-//   {
-//     id: 2,
-//     title: "Tracker Wydatków",
-//     des: "Aplikacja internetowa do zarządzania wydatkami, umożliwiająca użytkownikom dodawanie, kategoryzowanie i analizowanie wydatków dzięki przyjaznemu interfejsowi i wizualizacji danych w czasie rzeczywistym.",
-//     img: "/projekt2.png",
-//     iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-//     link: "https://saas-golon.vercel.app",
-//   },
-//   {
-//     id: 3,
-//     title: "Strona Internetowa AI",
-//     des: "Strona internetowa prezentująca narzędzia zasilane sztuczną inteligencją do generowania kreatywnych i funkcjonalnych rozwiązań projektowych, oferująca intuicyjny interfejs.",
-//     img: "/projekt3.png",
-//     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-//     link: "https://ai-design-mocha.vercel.app/",
-//   },
-//   {
-//     id: 4,
-//     title: "Porównywarka Samochodowa",
-//     des: "Aplikacja internetowa do eksplorowania i porównywania samochodów, oferująca szczegółowe specyfikacje, recenzje i zaawansowane filtry dla świadomego podejmowania decyzji.",
-//     img: "/projekt4.png",
-//     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-//     link: "https://car-platform.vercel.app/",
-//   },
-// ];
+export const projects = [
+  {
+    id: 1,
+    title: "Narzędzie do Zarządzania Zadaniami",
+    des: "Usprawnij swój przepływ pracy i zwiększ produktywność dzięki tej intuicyjnej aplikacji do zarządzania zadaniami, zaprojektowanej tak, aby utrzymać projekty na właściwej drodze i zespół w synchronizacji.",
+    img: "/projekt1.png",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/app.svg"],
+    link: "https://task-manager-phi-khaki.vercel.app",
+  },
+  {
+    id: 2,
+    title: "Tracker Wydatków",
+    des: "Aplikacja internetowa do zarządzania wydatkami, umożliwiająca użytkownikom dodawanie, kategoryzowanie i analizowanie wydatków dzięki przyjaznemu interfejsowi i wizualizacji danych w czasie rzeczywistym.",
+    img: "/projekt2.png",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
+    link: "https://saas-golon.vercel.app",
+  },
+  {
+    id: 3,
+    title: "Strona Internetowa AI",
+    des: "Strona internetowa prezentująca narzędzia zasilane sztuczną inteligencją do generowania kreatywnych i funkcjonalnych rozwiązań projektowych, oferująca intuicyjny interfejs.",
+    img: "/projekt3.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://ai-design-mocha.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "Porównywarka Samochodowa",
+    des: "Aplikacja internetowa do eksplorowania i porównywania samochodów, oferująca szczegółowe specyfikacje, recenzje i zaawansowane filtry dla świadomego podejmowania decyzji.",
+    img: "/projekt4.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://car-platform.vercel.app/",
+  },
+];
 
 // export const testimonials = [
 //   {

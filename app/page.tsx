@@ -1,6 +1,7 @@
 // "use client";
 import Grid from "@/components/grid";
 import Hero from "@/components/hero";
+import RecentProjects from "@/components/recent-project";
 import { GridGlobe } from "@/components/ui/grid-globe";
 
 export default function Home() {
@@ -11,8 +12,8 @@ export default function Home() {
         <Hero />
 
         <Grid />
-        {/* <RecentProject />
-        <Clients />
+        <RecentProjects />
+        {/* <Clients />
         <Experience />
         <Approach />
         <Footer /> */}
