@@ -104,7 +104,7 @@ export const BentoGridItem = ({
             />
           )}
         </div>
-        {id === 6 && (
+        {/* {id === 6 && (
           <BackgroundGradientAnimation></BackgroundGradientAnimation>
         )}
 
@@ -188,7 +188,7 @@ export const BentoGridItem = ({
               </MagicButton>
             </div>
           )}
-        </div>
+        </div>*/}
       </div>
     </div>
   );

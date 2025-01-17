@@ -1,5 +1,5 @@
 // "use client";
-// import Grid from "@/components/grid";
+import Grid from "@/components/grid";
 import Hero from "@/components/hero";
 import { GridGlobe } from "@/components/ui/grid-globe";
 
@@ -9,8 +9,8 @@ export default function Home() {
       <div className="max-w-7xl w-full">
         {/* <FloatingNav navItems={navItems} /> */}
         <Hero />
-        <GridGlobe />
-        {/* <Grid /> */}
+
+        <Grid />
         {/* <RecentProject />
         <Clients />
         <Experience />
