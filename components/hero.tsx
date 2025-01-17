@@ -35,7 +35,7 @@ const Hero = () => {
           />
 
           <p className="text-center text-white md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi I am Piotrek, Frontend Developer based in Poland
+            Hi, I am Piotrek! Frontend Developer based in Poland
           </p>
 
           <a href="#about">
