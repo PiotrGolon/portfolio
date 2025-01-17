@@ -38,62 +38,6 @@ const RecentProjects = () => {
                   fill
                   className="z-10 absolute object-cover object-top"
                 />
-
-                {/* {item.id === 2 && (
-                  <Image
-                    src={item.img}
-                    alt="cover"
-                    fill
-                    className="z-10 absolute md:top-12 top-12 object-cover"
-                  />
-                )}
-                {item.id === 3 && (
-                  <Image
-                    src={item.img}
-                    alt="cover"
-                    fill
-                    className="z-10 absolute md:top-12 top-12 object-cover"
-                  />
-                )}
-                {item.id === 4 && (
-                  <Image
-                    src={item.img}
-                    alt="cover"
-                    fill
-                    className="z-10 absolute md:top-12 top-12 object-cover"
-                  />
-                )}
-                {item.id === 5 && (
-                  <Image
-                    src={item.img}
-                    alt="cover"
-                    fill
-                    className="z-10 absolute md:top-12 top-12 object-cover"
-                  />
-                )}
-                {item.id === 6 && (
-                  <Image
-                    src={item.img}
-                    alt="cover"
-                    fill
-                    className="z-10 absolute md:top-12 top-12 object-cover"
-                  />
-                )}
-                {item.id === 7 && (
-                  <Image
-                    src={item.img}
-                    alt="cover"
-                    fill
-                    className="z-10 absolute md:top-12 top-12 object-cover"
-                  />
-                )}
-                {item.id === 8 && (
-                  <Image
-                    src={item.img}
-                    alt="cover"
-                    fill
-                    className="z-10 absolute md:top-12 top-12 object-cover"
-                  /> */}
               </div>
 
               <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1">

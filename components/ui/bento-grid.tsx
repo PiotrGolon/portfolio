@@ -171,7 +171,7 @@ export const BentoGridItem = ({
                 otherClasses="!bg-[#161a31]"
                 handleClick={handleClick}
               >
-                {copied ? "Email skopiowany!" : "Skopiuj email"}
+                {copied ? "Email copied!" : "Copy an email"}
               </MagicButton>
             </div>
           )}

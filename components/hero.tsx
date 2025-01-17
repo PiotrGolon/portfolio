@@ -30,17 +30,17 @@ const Hero = () => {
           </h2>
 
           <TextGenerateEffect
-            words="Przekształcam wizje w intuicyjne rozwiązania cyfrowe"
+            words="Transform visions into intuitive digital solutions"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center text-white md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Cześć z tej strony Piotrek, Frontend Developer
+            Hi I am Piotrek, Frontend Developer based in Poland
           </p>
 
           <a href="#about">
             <MagicButton icon={<FaLocationArrow />} position="right">
-              Odkryj moje projekty
+              Explore my projects
             </MagicButton>
           </a>
         </div>
