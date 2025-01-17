@@ -31,15 +31,15 @@ const RecentProjects = () => {
                     className="object-cover"
                   />
                 </div>
-                {item.id === 1 && (
-                  <Image
-                    src={item.img}
-                    alt="cover"
-                    fill
-                    className="z-10 absolute md:top-12 top-12 object-cover"
-                  />
-                )}
-                {item.id === 2 && (
+
+                <Image
+                  src={item.img}
+                  alt="cover"
+                  fill
+                  className="z-10 absolute object-cover object-top"
+                />
+
+                {/* {item.id === 2 && (
                   <Image
                     src={item.img}
                     alt="cover"
@@ -93,8 +93,7 @@ const RecentProjects = () => {
                     alt="cover"
                     fill
                     className="z-10 absolute md:top-12 top-12 object-cover"
-                  />
-                )}
+                  /> */}
               </div>
 
               <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1">
