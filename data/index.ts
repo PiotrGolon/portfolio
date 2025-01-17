@@ -36,16 +36,16 @@ export const gridItems = [
     img: "",
     spareImg: "",
   },
-  // {
-  //   id: 4,
-  //   title: "Komunikacja jest jasna i otwarta.",
-  //   description: "",
-  //   className: "lg:col-span-2 md:col-span-3 md:row-span-1",
-  //   imgClassName: "",
-  //   titleClassName: "justify-start",
-  //   img: "/grid.svg",
-  //   spareImg: "/b4.svg",
-  // },
+  {
+    id: 4,
+    title: "Komunikacja jest jasna i otwarta.",
+    description: "",
+    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
+    imgClassName: "",
+    titleClassName: "justify-start",
+    img: "/grid.svg",
+    spareImg: "/b4.svg",
+  },
 
   // {
   //   id: 5,
