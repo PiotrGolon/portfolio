@@ -106,7 +106,7 @@ export const BentoGridItem = ({
         </div>
         {/* {id === 6 && (
           <BackgroundGradientAnimation></BackgroundGradientAnimation>
-        )}
+        )} */}
 
         <div
           className={cn(
@@ -122,7 +122,8 @@ export const BentoGridItem = ({
           </div>
 
           {id === 2 && <GridGlobe />}
-          {id === 3 && (
+
+          {/* {id === 3 && (
             <div className="flex gap-1 lg:gap-3 w-fit absolute -right-5 lg:-right-3 md:-right-1 lg:-top-1 -top-1">
               <div className="flex flex-col gap-3 md:gap-3 lg:gap-6">
                 {leftLists.map((item, i) => (
@@ -187,8 +188,8 @@ export const BentoGridItem = ({
                 {copied ? "Email skopiowany!" : "Skopiuj email"}
               </MagicButton>
             </div>
-          )}
-        </div>*/}
+          )} */}
+        </div>
       </div>
     </div>
   );
