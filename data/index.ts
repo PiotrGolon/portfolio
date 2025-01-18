@@ -143,81 +143,73 @@ export const projects = [
   },
 ];
 
-// export const testimonials = [
-//   {
-//     img: "/Mateo.jpg",
-//     altImg: "Zdjęcie klienta Mateusz",
-//     quote:
-//       "Piotr przykłada szczególną uwagę do detali. Byłem naprawdę pod wrażeniem jego zaangażowania i dbałości o każdy szczegół. Trzy słowa, które szybko opisują współpracę z Piotrem: punktualność, precyzja, erudycja.",
-//     name: "Mateusz Sobierski",
-//     title: "Social Media Manager",
-//   },
-//   {
-//     img: "/Kuba.jpg",
-//     altImg: "Zdjęcie klienta Jakub",
-//     quote:
-//       "Piotr zawsze sumiennie wykonywał swoje obowiązki. Ten okres współpracy był owocny dla obu stron. Taki pracownik jest dziś na wagę złota.",
-//     name: "Jakub Zaręba",
-//     title: "Senior Frontend Developer",
-//   },
-//   {
-//     img: "/Matthew.jpg",
-//     altImg: "Zdjęcie klienta Matthew",
-//     quote:
-//       "Piotr konsekwentnie wykazuje niezwykłe zaangażowanie w dążeniu do doskonałości. Jego metodyczne podejście i głęboka wiedza gwarantują bezbłędne rezultaty. Opisując Piotra, powiedziałbym: niezawodny.",
-//     name: "Mateusz Różański",
-//     title: "Manager - Polbruk",
-//   },
-//   {
-//     img: "/Nikodem.jpg",
-//     altImg: "Zdjęcie klienta Nikodem",
-//     quote:
-//       "Jestem pod ogromnym wrażeniem zdolności Piotra do rozumienia potrzeb klientów oraz doskonałej komunikacji i wizualizacji projektów. Jego wsparcie przy tworzeniu naszej strony internetowej było kluczowe.",
-//     name: "Nikodem Andrzejewski",
-//     title: "Trener przygotowania motorycznego",
-//   },
-//   {
-//     img: "/Marcin.jpg",
-//     altImg: "Zdjęcie klienta Marcin",
-//     quote:
-//       "Praca z Piotrem nad rozwojem naszej strony internetowej była fantastycznym doświadczeniem. Zaprojektował przyjazną dla użytkownika, atrakcyjną stronę, która doskonale odzwierciedla naszą markę.",
-//     name: "Marcin Florczak",
-//     title: "Przedsiębiorca",
-//   },
-// ];
+export const testimonials = [
+  {
+    img: "/Mateo.jpg",
+    altImg: "Zdjęcie klienta Mateusz",
+    quote:
+      "Piotr przykłada szczególną uwagę do detali. Byłem naprawdę pod wrażeniem jego zaangażowania i dbałości o każdy szczegół. Trzy słowa, które szybko opisują współpracę z Piotrem: punktualność, precyzja, erudycja.",
+    name: "Mateusz Sobierski",
+    title: "Social Media Manager",
+  },
+  {
+    img: "/Kuba.jpg",
+    altImg: "Zdjęcie klienta Jakub",
+    quote:
+      "Piotr zawsze sumiennie wykonywał swoje obowiązki. Ten okres współpracy był owocny dla obu stron. Taki pracownik jest dziś na wagę złota.",
+    name: "Jakub Zaręba",
+    title: "Senior Frontend Developer",
+  },
+  {
+    img: "/Nikodem.jpg",
+    altImg: "Zdjęcie klienta Nikodem",
+    quote:
+      "Jestem pod ogromnym wrażeniem zdolności Piotra do rozumienia potrzeb klientów oraz doskonałej komunikacji i wizualizacji projektów. Jego wsparcie przy tworzeniu naszej strony internetowej było kluczowe.",
+    name: "Nikodem Andrzejewski",
+    title: "Trener przygotowania motorycznego",
+  },
+  {
+    img: "/Tomasz.jpg",
+    altImg: "Zdjęcie klienta Marcin",
+    quote:
+      "Praca z Piotrem nad rozwojem mojej strony internetowej była fantastycznym doświadczeniem. Zaprojektował przyjazną dla użytkownika, atrakcyjną stronę, która doskonale odzwierciedla moją pracę.",
+    name: "Tomasz Deput",
+    title: "Fizjoterapeuta",
+  },
+];
 
-// export const companies = [
-//   {
-//     id: 1,
-//     name: "React",
-//     img: "/re.svg",
-//     nameImg: "React",
-//   },
-//   {
-//     id: 2,
-//     name: "appwrite",
-//     img: "/next.svg",
-//     nameImg: "Next",
-//   },
-//   {
-//     id: 3,
-//     name: "HOSTINGER",
-//     img: "/ts.svg",
-//     nameImg: "TypeScript",
-//   },
-//   {
-//     id: 4,
-//     name: "stream",
-//     img: "/tail.svg",
-//     nameImg: "Tailwind",
-//   },
-//   {
-//     id: 5,
-//     name: "docker.",
-//     img: "/dock.svg",
-//     nameImg: "/dockerName.svg",
-//   },
-// ];
+export const companies = [
+  {
+    id: 1,
+    name: "React",
+    img: "/re.svg",
+    nameImg: "React",
+  },
+  {
+    id: 2,
+    name: "appwrite",
+    img: "/next.svg",
+    nameImg: "Next",
+  },
+  {
+    id: 3,
+    name: "HOSTINGER",
+    img: "/ts.svg",
+    nameImg: "TypeScript",
+  },
+  {
+    id: 4,
+    name: "stream",
+    img: "/tail.svg",
+    nameImg: "Tailwind",
+  },
+  {
+    id: 5,
+    name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
+  },
+];
 
 // export const workExperience = [
 //   {
