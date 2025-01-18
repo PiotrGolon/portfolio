@@ -12,9 +12,9 @@ const Approach = () => {
       </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card
-          title="Szybkość & Wydajność"
-          icon={<AceternityIcon order="Szybkość" />}
-          description="Moje rozwiązania webowe sprawią, że twoja stona będzie szybka i dynamiczna, co znacząco podniesie wrażenie użytkownika."
+          title="Speed & Performance"
+          icon={<AceternityIcon order="Speed" />}
+          description="My web solutions ensure your website is fast and dynamic, significantly enhancing the user experience."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -22,9 +22,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Elastyczność & Skalowalność"
-          icon={<AceternityIcon order="Elastyczność" />}
-          description="Każdy produkt to indywidualne rozwiązanie, które elastycznie możemy rozwijać i skalować według twoich preferencji."
+          title="Flexibility & Scalability"
+          icon={<AceternityIcon order="Flexibility" />}
+          description="Each product is a tailored solution that we can flexibly develop and scale according to your preferences."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -39,9 +39,9 @@ const Approach = () => {
           <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" />
         </Card>
         <Card
-          title="Mechanizmy bezpieczeństwa"
-          icon={<AceternityIcon order="Bezpieczeństwo" />}
-          description="Strony i aplikacje są zabezpieczone przeciwko osobom, które prowadzą hakerskie działania w sieci."
+          title="Security Mechanisms"
+          icon={<AceternityIcon order="Security" />}
+          description="Websites and applications are protected against individuals engaging in hacking activities online."
         >
           <CanvasRevealEffect
             animationSpeed={3}
