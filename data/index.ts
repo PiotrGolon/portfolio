@@ -166,7 +166,7 @@ export const testimonials = [
     quote:
       "I am very impressed with Piotr's ability to understand the needs of the clients and his excellent communication and visualization of the projects. His support in creating our website was crucial.",
     name: "Nikodem Andrzejewski",
-    title: "Trener przygotowania motorycznego",
+    title: "Strength&Conditioning Coach",
   },
   {
     img: "/Tomasz.jpg",
@@ -174,7 +174,7 @@ export const testimonials = [
     quote:
       "Working with Piotr on the development of my website was a fantastic experience. He designed a user-friendly, attractive site that perfectly reflects my work.",
     name: "Tomasz Deput",
-    title: "Fizjoterapeuta",
+    title: "Physiotherapist",
   },
 ];
 
