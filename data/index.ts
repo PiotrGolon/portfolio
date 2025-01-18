@@ -148,7 +148,7 @@ export const testimonials = [
     img: "/Mateo.jpg",
     altImg: "Zdjęcie klienta Mateusz",
     quote:
-      "Piotr przykłada szczególną uwagę do detali. Byłem naprawdę pod wrażeniem jego zaangażowania i dbałości o każdy szczegół. Trzy słowa, które szybko opisują współpracę z Piotrem: punktualność, precyzja, erudycja.",
+      "Piotr pays special attention to detail. I was really impressed by his commitment and attention to every detail. Two words that quickly describe cooperation with Piotr: punctuality and precision.",
     name: "Mateusz Sobierski",
     title: "Social Media Manager",
   },
@@ -156,7 +156,7 @@ export const testimonials = [
     img: "/Kuba.jpg",
     altImg: "Zdjęcie klienta Jakub",
     quote:
-      "Piotr zawsze sumiennie wykonywał swoje obowiązki. Ten okres współpracy był owocny dla obu stron. Taki pracownik jest dziś na wagę złota.",
+      "Piotr always performed his duties conscientiously. This period of cooperation was fruitful for both parties. Such an employee is worth his weight in gold today.",
     name: "Jakub Zaręba",
     title: "Senior Frontend Developer",
   },
@@ -164,7 +164,7 @@ export const testimonials = [
     img: "/Nikodem.jpg",
     altImg: "Zdjęcie klienta Nikodem",
     quote:
-      "Jestem pod ogromnym wrażeniem zdolności Piotra do rozumienia potrzeb klientów oraz doskonałej komunikacji i wizualizacji projektów. Jego wsparcie przy tworzeniu naszej strony internetowej było kluczowe.",
+      "I am very impressed with Piotr's ability to understand the needs of the clients and his excellent communication and visualization of the projects. His support in creating our website was crucial.",
     name: "Nikodem Andrzejewski",
     title: "Trener przygotowania motorycznego",
   },
@@ -172,7 +172,7 @@ export const testimonials = [
     img: "/Tomasz.jpg",
     altImg: "Zdjęcie klienta Marcin",
     quote:
-      "Praca z Piotrem nad rozwojem mojej strony internetowej była fantastycznym doświadczeniem. Zaprojektował przyjazną dla użytkownika, atrakcyjną stronę, która doskonale odzwierciedla moją pracę.",
+      "Working with Piotr on the development of my website was a fantastic experience. He designed a user-friendly, attractive site that perfectly reflects my work.",
     name: "Tomasz Deput",
     title: "Fizjoterapeuta",
   },

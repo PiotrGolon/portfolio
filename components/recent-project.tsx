@@ -10,7 +10,7 @@ const RecentProjects = () => {
   return (
     <section id="projects" className="py-20">
       <h1 className="heading">
-        Sprawdź moje <span className="text-purple">wyróżnione projekty</span>
+        Check out my <span className="text-purple">featured projects</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-x-24 gap-y-8 mt-10">
         {projects.map((item) => (

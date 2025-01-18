@@ -6,7 +6,7 @@ const Clients = () => {
   return (
     <section id="testimonials" className="py-20">
       <h1 className="heading">
-        Opinie moich <span className="text-purple">klientów</span>
+        Testimonials from <span className="text-purple">satisfied clients</span>
       </h1>
       <div className="flex flex-col items-center lg:mt-10">
         <InfiniteMovingCards
@@ -18,7 +18,7 @@ const Clients = () => {
 
       <div className="my-20">
         <h1 className="heading">
-          Środowisko <span className="text-purple">technologiczne</span>
+          Tech <span className="text-purple">environment</span>
         </h1>
       </div>
 
