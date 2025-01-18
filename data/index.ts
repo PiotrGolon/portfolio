@@ -215,20 +215,20 @@ export const workExperience = [
   {
     id: 1,
     title: "1. You express your willingness to collaborate",
-    desc: "Contact us, and we will arrange an online or in-person meeting to present our offer and tailor our approach to your needs.",
+    desc: "Contact us, and I will arrange an online or in-person meeting to present my offer and tailor an approach to your needs.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "2. After accepting the offer",
-    desc: "We get to work and prepare your project. We conduct a series of actions to deliver a high-quality product that meets your requirements.",
+    desc: "I get to work and prepare your project. Conducting a series of actions to deliver a high-quality product that meets your requirements.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 3,
-    title: "3. We bring it to life",
+    title: "3. Bringing it to life",
     desc: "After your approval, we launch your website online. If the project is an application, we handle the maintenance of your product.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
@@ -241,16 +241,3 @@ export const workExperience = [
     thumbnail: "/exp4.svg",
   },
 ];
-
-// export const socialMedia = [
-//   {
-//     id: 1,
-//     img: "/git.svg",
-//     link: "https://github.com/PiotrGolon?tab=repositories",
-//   },
-//   {
-//     id: 2,
-//     img: "/link.svg",
-//     link: "https://www.linkedin.com/in/piotr-golon-477241271",
-//   },
-// ];
