@@ -7,6 +7,7 @@ import RecentProjects from "@/components/recent-project";
 import { FloatingNav } from "@/components/ui/floating-navbar";
 import { navItems } from "@/data";
 import Approach from "../components/approach";
+import Footer from "@/components/footer";
 
 export default function Home() {
   return (
@@ -20,7 +21,7 @@ export default function Home() {
         <Clients />
         <Experience />
         <Approach />
-        {/*  <Footer /> */}
+        <Footer /> 
       </div>
     </main>
   );

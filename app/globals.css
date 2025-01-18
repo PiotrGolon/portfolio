@@ -87,3 +87,7 @@
     background: linear-gradient(90deg, #161a31 0%, #06091f 100%);
   }
 }
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-b from-neutral-400 via-white to-white;
+}
