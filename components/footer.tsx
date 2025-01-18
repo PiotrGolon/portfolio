@@ -8,7 +8,7 @@ const Footer = () => {
   const [copied, setCopied] = useState(false);
 
   const handleClick = () => {
-    navigator.clipboard.writeText("piotrek98golon@o2.pl");
+    navigator.clipboard.writeText("piotrgolon121998@gmail.com");
 
     setCopied(true);
 
