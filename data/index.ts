@@ -211,36 +211,36 @@ export const companies = [
   },
 ];
 
-// export const workExperience = [
-//   {
-//     id: 1,
-//     title: "1. Wyrażasz chęć na podjęcie współpracy",
-//     desc: "Skontaktuj się z nami, a ustalimy spotkanie online lub na żywo, gdzie przedstawimy Ci ofertę i podejdziemy indywidualnie do Twoich potrzeb.",
-//     className: "md:col-span-2",
-//     thumbnail: "/exp1.svg",
-//   },
-//   {
-//     id: 2,
-//     title: "2. Po akceptacji oferty",
-//     desc: "Zabieramy się do pracy i przygotowywujemu twoje zlecenie. Przeprowadzamy szerg działań, aby dostarczyć produkt najwyższej jakości, zgodny z Twoimi wytycznymi.",
-//     className: "md:col-span-2", // change to md:col-span-2
-//     thumbnail: "/exp3.svg",
-//   },
-//   {
-//     id: 3,
-//     title: "3. Wdrażamy w życie",
-//     desc: "Po twojej akceptacji wprowadzamy twoją stronę do sieci. Jeżeli projekt jest aplikacją, przeprowadzamy utrzymanie twojego produktu.",
-//     className: "md:col-span-2", // change to md:col-span-2
-//     thumbnail: "/exp2.svg",
-//   },
-//   {
-//     id: 4,
-//     title: "4. Finalny efekt",
-//     desc: "Inni użytkownicy mogą odwiedzać Twoją stronę lub aplikację w każym momencie, a Ty możesz się cieszyć, że w końcu masz swoją stronę lub produkt!",
-//     className: "md:col-span-2",
-//     thumbnail: "/exp4.svg",
-//   },
-// ];
+export const workExperience = [
+  {
+    id: 1,
+    title: "1. You express your willingness to collaborate",
+    desc: "Contact us, and we will arrange an online or in-person meeting to present our offer and tailor our approach to your needs.",
+    className: "md:col-span-2",
+    thumbnail: "/exp1.svg",
+  },
+  {
+    id: 2,
+    title: "2. After accepting the offer",
+    desc: "We get to work and prepare your project. We conduct a series of actions to deliver a high-quality product that meets your requirements.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp3.svg",
+  },
+  {
+    id: 3,
+    title: "3. We bring it to life",
+    desc: "After your approval, we launch your website online. If the project is an application, we handle the maintenance of your product.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp2.svg",
+  },
+  {
+    id: 4,
+    title: "4. The final result",
+    desc: "Other users can visit your website or application anytime, and you can enjoy finally having your own site or product!",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
+];
 
 // export const socialMedia = [
 //   {
